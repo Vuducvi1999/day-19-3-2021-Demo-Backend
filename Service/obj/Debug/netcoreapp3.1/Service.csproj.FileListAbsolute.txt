@@ -1,0 +1,12 @@
+D:\Project .NET\Samples\Sample_1\Demo\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\Project .NET\Samples\Sample_1\Demo\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\Project .NET\Samples\Sample_1\Demo\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\Project .NET\Samples\Sample_1\Demo\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\Project .NET\Samples\Sample_1\Demo\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\Project .NET\Samples\Sample_1\Demo\Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\Project .NET\Samples\Sample_1\Demo\Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Project .NET\Samples\Sample_1\Demo\Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Project .NET\Samples\Sample_1\Demo\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Project .NET\Samples\Sample_1\Demo\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+D:\Project .NET\Samples\Sample_1\Demo\Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\Project .NET\Samples\Sample_1\Demo\Service\obj\Debug\netcoreapp3.1\Service.pdb

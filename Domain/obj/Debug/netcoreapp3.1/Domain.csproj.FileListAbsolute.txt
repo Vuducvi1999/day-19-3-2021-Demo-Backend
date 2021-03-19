@@ -1,0 +1,12 @@
+D:\Project .NET\Samples\Sample_1\Demo\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Project .NET\Samples\Sample_1\Demo\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Project .NET\Samples\Sample_1\Demo\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Project .NET\Samples\Sample_1\Demo\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\Project .NET\Samples\Sample_1\Demo\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Project .NET\Samples\Sample_1\Demo\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Project .NET\Samples\Sample_1\Demo\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Project .NET\Samples\Sample_1\Demo\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Project .NET\Samples\Sample_1\Demo\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\Project .NET\Samples\Sample_1\Demo\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+D:\Project .NET\Samples\Sample_1\Demo\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+D:\Project .NET\Samples\Sample_1\Demo\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
